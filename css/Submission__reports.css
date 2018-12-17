@@ -4,7 +4,7 @@ body{
 #admin{
     text-align: center;
     padding-top: 40px;
-    text:bold;
+    font-weight: bold;
 }
 #reports {
     text-align: center;
@@ -20,4 +20,8 @@ table{
     background: grey;
     padding-top:  150px;
     text-align: center;
+}
+ th, td{
+    border: 2px solid red;
+    border-collapse: collapse;
 }

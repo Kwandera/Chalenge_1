@@ -16,6 +16,10 @@ table{
     padding-left: 450px;
     padding-bottom: 30px;
 }
+hr, td{
+    border: 2px solid red; 
+}
+
 .conditions{
     background: grey;
     padding-top:  150px;
